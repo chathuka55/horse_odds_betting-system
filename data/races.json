@@ -1,0 +1,58 @@
+{
+    "races": [
+        {
+            "id": 1,
+            "name": "Kentucky Derby Stakes",
+            "track_id": 1,
+            "race_date": "2024-01-15",
+            "race_time": "14:30",
+            "distance": "1 1/4 miles",
+            "race_class": "Grade 1",
+            "race_type": "flat",
+            "prize_money": 500000,
+            "currency": "USD",
+            "going": "Good to Firm",
+            "weather": "Sunny",
+            "temperature": "22°C",
+            "status": "scheduled",
+            "is_featured": true,
+            "created_at": "2024-01-01 10:00:00"
+        },
+        {
+            "id": 2,
+            "name": "Royal Ascot Gold Cup",
+            "track_id": 2,
+            "race_date": "2024-01-15",
+            "race_time": "15:15",
+            "distance": "2 1/2 miles",
+            "race_class": "Group 1",
+            "race_type": "flat",
+            "prize_money": 750000,
+            "currency": "GBP",
+            "going": "Good",
+            "weather": "Cloudy",
+            "temperature": "18°C",
+            "status": "scheduled",
+            "is_featured": true,
+            "created_at": "2024-01-01 10:00:00"
+        },
+        {
+            "id": 3,
+            "name": "Melbourne Cup",
+            "track_id": 3,
+            "race_date": "2024-01-15",
+            "race_time": "16:00",
+            "distance": "3200m",
+            "race_class": "Group 1",
+            "race_type": "flat",
+            "prize_money": 1000000,
+            "currency": "AUD",
+            "going": "Good",
+            "weather": "Sunny",
+            "temperature": "25°C",
+            "status": "scheduled",
+            "is_featured": true,
+            "created_at": "2024-01-01 10:00:00"
+        }
+    ]
+}

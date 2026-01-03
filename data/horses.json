@@ -1,0 +1,61 @@
+{
+    "horses": [
+        {
+            "id": 1,
+            "name": "Thunder Bolt",
+            "age": 4,
+            "gender": "colt",
+            "trainer_id": 1,
+            "owner_id": 1,
+            "weight": "126 lbs",
+            "career_wins": 8,
+            "career_places": 15,
+            "career_starts": 25,
+            "career_earnings": 450000,
+            "best_distance": "1 1/4 miles",
+            "form": "1-2-1-3-1",
+            "rating": 95,
+            "equipment": "Blinkers",
+            "medication": "Lasix",
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "name": "Lightning Strike",
+            "age": 5,
+            "gender": "stallion",
+            "trainer_id": 2,
+            "owner_id": 2,
+            "weight": "124 lbs",
+            "career_wins": 12,
+            "career_places": 20,
+            "career_starts": 35,
+            "career_earnings": 680000,
+            "best_distance": "1 1/4 miles",
+            "form": "2-1-1-2-1",
+            "rating": 98,
+            "equipment": "None",
+            "medication": "None",
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "name": "Storm Chaser",
+            "age": 3,
+            "gender": "colt",
+            "trainer_id": 3,
+            "owner_id": 3,
+            "weight": "122 lbs",
+            "career_wins": 4,
+            "career_places": 9,
+            "career_starts": 18,
+            "career_earnings": 220000,
+            "best_distance": "1 mile",
+            "form": "3-4-2-1-5",
+            "rating": 88,
+            "equipment": "Blinkers",
+            "medication": "Lasix",
+            "is_active": true
+        }
+    ]
+}

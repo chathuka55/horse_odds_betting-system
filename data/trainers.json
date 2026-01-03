@@ -1,0 +1,92 @@
+{
+    "trainers": [
+        {
+            "id": 1,
+            "name": "Mike Johnson",
+            "stable_name": "Johnson Racing Stables",
+            "location": "Kentucky",
+            "country": "USA",
+            "total_wins": 156,
+            "total_horses": 24,
+            "win_percentage": 18.5,
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "name": "Sarah Wilson",
+            "stable_name": "Wilson Thoroughbreds",
+            "location": "Newmarket",
+            "country": "UK",
+            "total_wins": 203,
+            "total_horses": 32,
+            "win_percentage": 22.3,
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "name": "Robert Davis",
+            "stable_name": "Davis Racing",
+            "location": "Melbourne",
+            "country": "Australia",
+            "total_wins": 134,
+            "total_horses": 18,
+            "win_percentage": 16.8,
+            "is_active": true
+        },
+        {
+            "id": 4,
+            "name": "Emma White",
+            "stable_name": "White Star Stables",
+            "location": "Dublin",
+            "country": "Ireland",
+            "total_wins": 98,
+            "total_horses": 15,
+            "win_percentage": 15.2,
+            "is_active": true
+        },
+        {
+            "id": 5,
+            "name": "Lisa Brown",
+            "stable_name": "Brown Racing LLC",
+            "location": "California",
+            "country": "USA",
+            "total_wins": 178,
+            "total_horses": 28,
+            "win_percentage": 20.1,
+            "is_active": true
+        },
+        {
+            "id": 6,
+            "name": "George Taylor",
+            "stable_name": "Taylor Thoroughbreds",
+            "location": "Yorkshire",
+            "country": "UK",
+            "total_wins": 87,
+            "total_horses": 12,
+            "win_percentage": 14.5,
+            "is_active": true
+        },
+        {
+            "id": 7,
+            "name": "Helen Clark",
+            "stable_name": "Clark Racing",
+            "location": "Paris",
+            "country": "France",
+            "total_wins": 145,
+            "total_horses": 22,
+            "win_percentage": 19.3,
+            "is_active": true
+        },
+        {
+            "id": 8,
+            "name": "Peter Moore",
+            "stable_name": "Moore Stables",
+            "location": "Florida",
+            "country": "USA",
+            "total_wins": 112,
+            "total_horses": 16,
+            "win_percentage": 17.8,
+            "is_active": true
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "site_name": "RacingPro Analytics",
+    "site_tagline": "AI-Powered Racing Predictions",
+    "contact_email": "info@racingpro.com",
+    "contact_phone": "+1 234 567 890",
+    "timezone": "UTC",
+    "date_format": "Y-m-d",
+    "time_format": "H:i",
+    "currency": "USD",
+    "odds_format": "fractional",
+    "maintenance_mode": false
+}

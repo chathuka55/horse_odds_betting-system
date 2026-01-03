@@ -1,0 +1,56 @@
+{
+    "results": [
+        {
+            "race_id": 1,
+            "race_name": "Kentucky Derby Stakes",
+            "race_date": "2024-01-14",
+            "status": "finished",
+            "positions": [
+                {
+                    "position": 1,
+                    "horse_id": 2,
+                    "horse_name": "Lightning Strike",
+                    "jockey": "David Brown",
+                    "time": "2:01.45",
+                    "margin": "Winner",
+                    "starting_price": "5/2"
+                },
+                {
+                    "position": 2,
+                    "horse_id": 1,
+                    "horse_name": "Thunder Bolt",
+                    "jockey": "John Smith",
+                    "time": "2:01.67",
+                    "margin": "1 1/2 L",
+                    "starting_price": "3/1"
+                },
+                {
+                    "position": 3,
+                    "horse_id": 5,
+                    "horse_name": "Desert Rose",
+                    "jockey": "Chris Martin",
+                    "time": "2:01.89",
+                    "margin": "2 L",
+                    "starting_price": "4/1"
+                },
+                {
+                    "position": 4,
+                    "horse_id": 7,
+                    "horse_name": "Ocean Wave",
+                    "jockey": "Mark Johnson",
+                    "time": "2:02.10",
+                    "margin": "3/4 L",
+                    "starting_price": "6/1"
+                }
+            ],
+            "payouts": {
+                "win": 12.50,
+                "place": 4.20,
+                "show": 3.10,
+                "exacta": 45.80,
+                "trifecta": 186.40,
+                "superfecta": 845.20
+            }
+        }
+    ]
+}

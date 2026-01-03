@@ -1,0 +1,31 @@
+{
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Churchill Downs",
+            "location": "Louisville, Kentucky",
+            "country": "USA",
+            "track_type": "dirt",
+            "track_length": "1 mile",
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "name": "Ascot Racecourse",
+            "location": "Berkshire",
+            "country": "UK",
+            "track_type": "turf",
+            "track_length": "1 mile 6 furlongs",
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "name": "Flemington",
+            "location": "Melbourne",
+            "country": "Australia",
+            "track_type": "turf",
+            "track_length": "2 miles",
+            "is_active": true
+        }
+    ]
+}
